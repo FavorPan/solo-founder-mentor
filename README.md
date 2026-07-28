@@ -17,7 +17,7 @@ The one-person overseas-company space has four complementary methodological scho
 | Background | Big-tech PM pivot | E-commerce ops pivot | Non-programmer digital nomad | Pivoted after layoff |
 | Core strength | Deep AI coding + product insight | Traffic/SEO + content execution | Minimal stack + paid validation | AI coding workflow + personal IP |
 | Playbook | Few-but-fine product matrix | Wide net of niche sites | 12 products in 12 months | 35+ products cross-selling |
-| Stack | AI coding tools + SaaS templates | Cloudflare全家桶 | PHP+jQuery+SQLite+single VPS | Next.js + Cursor |
+| Stack | AI coding tools + SaaS templates | Cloudflare suite | PHP+jQuery+SQLite+single VPS | Next.js + Cursor |
 | Revenue | Product paid + courses | AdSense + SaaS subscriptions | One-time paid, 90% margin | Shovels (templates/courses/community) sold to peers |
 | Methodology focus | Reverse-demand / raising crawdads / Ralph Loop | Five-Root / opportunity score / data review | Paid validation / build in public / 100% automation | Ship Fast / 80-20 AI coding / portfolio monetization |
 
@@ -33,7 +33,7 @@ Common founder confusions and the matching methodology:
 
 | Confusion type | Typical question | Primary methodology |
 |---|---|---|
-| Direction / product choice | "Should I build X?", "Is this赛道 viable?" | Reverse-demand + opportunity score + paid validation |
+| Direction / product choice | "Should I build X?", "Is this track viable?" | Reverse-demand + opportunity score + paid validation |
 | Pivot or not | "Current thing isn't making money — switch?" | Trend-riding vs task-eating + replace-the-role-not-the-function |
 | Execution stall | "I can't ship / I'm stuck" | Raising crawdads / Ralph Loop + data review |
 | Automation | "One person can't keep up / hands stop, income stops" | Six-level leap (stall vs vending machine) + 100% automation checklist |
@@ -42,7 +42,7 @@ Common founder confusions and the matching methodology:
 | Fundraise / hire? | "Should I take VC / hire a team?" | Anti-VC anti-hire + self-sustaining portfolio |
 | Portfolio / expansion | "One product or many / how to scale?" | 12-startups method + portfolio monetization + tool→course→community ladder |
 | How to use AI coding | "How does AI coding actually land?" | 80-20 AI coding + Cursor four-layer usage + six-level leap |
-| Future trends /赛道 | "Where's the next opportunity / will AI eat me?" | Agent-friendly SaaS + "what model makers won't do" + distribution > product |
+| Future trends / track | "Where's the next opportunity / will AI eat me?" | Agent-friendly SaaS + "what model makers won't do" + distribution > product |
 
 ---
 
