@@ -1,131 +1,134 @@
-# 一人公司导师 · Solo Founder Mentor
+# Solo Founder Mentor
 
-> 综合出海一人公司四大互补方法流派（**AI 编程派** + **流量出海派** + **海外indie派·反VC极简** + **海外indie派·分发组合**）的可落地方法论，以「**泼冷水 + 方法论对照**」口吻为创业者解决困惑的 Claude Code Skill。
+> A Claude Code Skill that helps solo founders resolve confusion by combining four complementary methodological schools of one-person overseas companies (**AI-Coding School** + **Traffic-Abroad School** + **Overseas-Indie · Anti-VC Minimalism** + **Overseas-Indie · Distribution-Combination**) into actionable methodology, delivered in a **cold-water + methodology-contrast** voice.
 
-不是百科，不是搜索引擎，是一个**会踩刹车、会挑刺、会把球踢回来**的导师。
+**English** | [中文](README.zh-CN.md)
+
+Not an encyclopedia. Not a search engine. A mentor that **hits the brakes, picks holes, and kicks the ball back to you.**
 
 ---
 
-## 为什么是这四个流派
+## Why These Four Schools
 
-出海一人公司领域有四大互补方法流派，本 skill 把四派的可落地方法论整合到一起：
+The one-person overseas-company space has four complementary methodological schools. This skill distills their actionable methodology into one place:
 
-| 维度 | AI 编程派 | 流量出海派 | 海外indie派·反VC极简 | 海外indie派·分发组合 |
+| Dimension | AI-Coding School | Traffic-Abroad School | Overseas-Indie · Anti-VC | Overseas-Indie · Distribution |
 |---|---|---|---|---|
-| 出身 | 大厂产品转型 | 电商运营转型 | 非程序员数字游民 | 被辞退后自雇 |
-| 核心能力 | AI 编程深度 + 产品洞察 | 流量/SEO + 内容执行力 | 极简技术栈 + 付费验证 | AI 编码工作流 + 个人IP |
-| 打法 | 少而精产品矩阵 | 广撒网站群 | 12个月12产品组合制 | 35+产品组合交叉销售 |
-| 技术栈 | AI 编程工具 + SaaS 模板 | Cloudflare 全家桶 | PHP+jQuery+SQLite+单VPS | Next.js + Cursor |
-| 变现 | 产品付费 + 课程 | AdSense + SaaS 订阅 | 一次性付费，90%利润率 | 铲子（模板/课程/社群）给同行 |
-| 方法论重心 | 需求倒着做/养小龙虾/Ralph Loop | 五根方法论/机会分/数据复盘 | 付费验证/build in public/100%自动化 | Ship Fast/80-20 AI编码/组合变现 |
+| Background | Big-tech PM pivot | E-commerce ops pivot | Non-programmer digital nomad | Pivoted after layoff |
+| Core strength | Deep AI coding + product insight | Traffic/SEO + content execution | Minimal stack + paid validation | AI coding workflow + personal IP |
+| Playbook | Few-but-fine product matrix | Wide net of niche sites | 12 products in 12 months | 35+ products cross-selling |
+| Stack | AI coding tools + SaaS templates | Cloudflare全家桶 | PHP+jQuery+SQLite+single VPS | Next.js + Cursor |
+| Revenue | Product paid + courses | AdSense + SaaS subscriptions | One-time paid, 90% margin | Shovels (templates/courses/community) sold to peers |
+| Methodology focus | Reverse-demand / raising crawdads / Ralph Loop | Five-Root / opportunity score / data review | Paid validation / build in public / 100% automation | Ship Fast / 80-20 AI coding / portfolio monetization |
 
-四派都不是程序员科班，都靠 AI 写代码做出千万级营收。前两派偏中国出海，后两派偏全球视角，东西方对照。路径可复制，方法论可落地。
+None of the four are CS-trained programmers. All used AI to write code and built seven-to-eight-figure revenue. The first two lean toward China-going-abroad; the latter two toward a global perspective. East-meets-West contrast. The paths are replicable; the methodology is actionable.
 
-> 为避免对号入座和版权/人格权问题，本 skill 只保留方法论本身，不记录具体个人姓名、公众号、产品名、课程名。溯源说明见 `references/sources.md`。
+> To avoid doxxing and copyright/personality-rights issues, this skill keeps only the methodology itself — no personal names, official accounts, product names, or course names. Provenance notes live in `references/sources.md`.
 
 ---
 
-## 这个 skill 解决什么
+## What This Skill Solves
 
-创业者常见的六类困惑，本 skill 都有对应方法论：
+Common founder confusions and the matching methodology:
 
-| 困惑类型 | 典型问法 | 主用方法论 |
+| Confusion type | Typical question | Primary methodology |
 |---|---|---|
-| 方向/选品 | "要不要做 X"、"这个赛道行不行" | 需求倒着做 + 机会分 + 付费验证 |
-| 要不要转型 | "现在做的不赚钱要不要换" | 蹭热度vs吃任务 + 替代岗位而非职能 |
-| 执行卡点 | "做不出来 / 卡住了" | 养小龙虾/Ralph Loop + 数据复盘 |
-| 自动化困惑 | "一个人忙不过来 / 手停口停" | 六级跃迁（摆摊vs售货机）+ 100%自动化清单 |
-| 变现困惑 | "怎么收钱 / 没人付费" | 五根方法论 + 定价标杆 + 反免费用户 |
-| 要不要公开 | "要不要 Build in Public" | build in public（海外）vs 国内别得瑟（出海）—— 按市场区分 |
-| 要不要融资/招人 | "要不要拿VC钱 / 招团队" | 反VC反招人 + 组合变现自循环 |
-| 产品组合/扩张 | "做一个还是多个 / 怎么放大" | 12 startups法 + 组合变现 + 工具→课程→社群阶梯 |
-| AI编程怎么用 | "AI写代码到底怎么落地" | 80-20 AI编码 + Cursor四层用法 + 六级跃迁 |
-| 未来趋势/选赛道 | "下一个机会在哪 / AI会不会吃掉我" | agent-friendly SaaS + 做"模型商不会做的" + 分发>产品 |
+| Direction / product choice | "Should I build X?", "Is this赛道 viable?" | Reverse-demand + opportunity score + paid validation |
+| Pivot or not | "Current thing isn't making money — switch?" | Trend-riding vs task-eating + replace-the-role-not-the-function |
+| Execution stall | "I can't ship / I'm stuck" | Raising crawdads / Ralph Loop + data review |
+| Automation | "One person can't keep up / hands stop, income stops" | Six-level leap (stall vs vending machine) + 100% automation checklist |
+| Monetization | "How do I charge / nobody pays" | Five-Root + pricing benchmarks + reject free-rider users |
+| Build in public? | "Should I build in public?" | Build in public (overseas) vs keep quiet domestically — by market |
+| Fundraise / hire? | "Should I take VC / hire a team?" | Anti-VC anti-hire + self-sustaining portfolio |
+| Portfolio / expansion | "One product or many / how to scale?" | 12-startups method + portfolio monetization + tool→course→community ladder |
+| How to use AI coding | "How does AI coding actually land?" | 80-20 AI coding + Cursor four-layer usage + six-level leap |
+| Future trends /赛道 | "Where's the next opportunity / will AI eat me?" | Agent-friendly SaaS + "what model makers won't do" + distribution > product |
 
 ---
 
-## 核心工作流：解困惑四步
+## Core Workflow: Four Steps to Resolve Confusion
 
-1. **定位困惑类型** —— 判断属于哪一类，决定套哪套方法论
-2. **泼冷水（灵魂，不可省）** —— 先质疑挑刺指出漏洞，不附和。核心信条「AI 的唯一正确用法，是让它给你泼冷水」
-3. **方法论对照** —— 用户扛过冷水后，给 1-2 个最相关方法论，结合具体情况套用
-4. **给可验证的下一步** —— 目标驱动，给一个能验证的小动作
+1. **Locate the confusion type** — Decide which category and which methodology applies.
+2. **Pour cold water (the soul — do not skip)** — Question, pick holes, point out gaps first. Don't echo. Core belief: *"The only correct use of AI is to make it pour cold water on you."*
+3. **Contrast with methodology** — Once the user survives the cold water, give 1–2 most-relevant methods to apply to their situation.
+4. **Give a verifiable next step** — Goal-driven; one small action that can be validated.
 
-三条铁律：先泼冷水后给方法 · 具体>通用 · 不下定论把球踢回。
+Three iron rules: cold water before method · specific over generic · don't conclude — kick the ball back.
 
 ---
 
-## 目录结构
+## Directory Structure
 
 ```
 solo-founder-mentor/
-├── SKILL.md                          # skill 入口与工作流
-├── README.md                         # 本文件
+├── SKILL.md                          # skill entry & workflow
+├── README.md                         # this file (English)
+├── README.zh-CN.md                   # Chinese version
 ├── references/
-│   ├── methods.md                    # 全部方法论拆解
-│   ├── quotes.md                     # 金句库（泼冷水时引用）
-│   └── sources.md                    # 方法论来源与可信度说明
+│   ├── methods.md                    # full methodology breakdown
+│   ├── quotes.md                     # quote library (for cold-water moments)
+│   └── sources.md                    # provenance & credibility notes
 └── scripts/
-    ├── opportunity_score.py          # 机会分评分（选品决策）
-    └── cold_water_checklist.py       # 泼冷水自检清单（导师自用）
+    ├── opportunity_score.py          # opportunity score (product-choice decisions)
+    └── cold_water_checklist.py       # cold-water self-check (for the mentor)
 ```
 
 ---
 
-## 安装与使用
+## Installation & Usage
 
-### 作为 Claude Code Skill 安装
+### Install as a Claude Code Skill
 
-把本目录链接/复制到 `~/.claude/skills/solo-founder-mentor/`：
+Link/copy this directory to `~/.claude/skills/solo-founder-mentor/`:
 
 ```bash
 ln -s ~/GitHub-Work/solo-founder-mentor ~/.claude/skills/solo-founder-mentor
 ```
 
-之后对 Claude 说："我想做个 AI 工具，帮我看看靠谱吗" —— skill 会自动激活，先泼冷水再给方法论。
+Then tell Claude: "I want to build an AI tool, is it viable?" — the skill auto-activates, pours cold water first, then gives methodology.
 
-### 单独跑脚本
+### Run Scripts Standalone
 
 ```bash
-# 选品评分（机会分）
+# Opportunity score (product choice)
 python3 scripts/opportunity_score.py
-# 或传参
+# or with params
 python3 scripts/opportunity_score.py --pain 4 --pay 3 --feasible 4 --ltv 4 --viral 3 --seo 2
 
-# 泼冷水自检（导师每次解困惑前跑）
+# Cold-water self-check (run before each mentoring session)
 python3 scripts/cold_water_checklist.py --auto
 ```
 
-机会分阈值：
+Opportunity score thresholds:
 
-| 分数 | 决策 |
+| Score | Decision |
 |---|---|
-| <15 | 不做 |
-| 15-20 | 观察 |
-| 20+ | 候选 |
-| 25+ | 立刻测试 |
+| <15 | Don't do it |
+| 15–20 | Observe |
+| 20+ | Candidate |
+| 25+ | Test immediately |
 
 ---
 
-## 数据可信度声明
+## Data Credibility Disclaimer
 
-两派代表人物的收入数据均**无法完全公开佐证**，使用时不当事实传播：
+Revenue figures for representative figures across the schools **cannot be fully publicly corroborated** — do not propagate them as fact:
 
-- 流量出海派「年收入 20 万美金」无法公开佐证，公开最高说法是人民币「年入百万」，从未展示后台收入截图。
-- AI 编程派 2024 年收入接近 1000 万元人民币（自述）。
+- Traffic-Abroad School: "$200k USD/year" cannot be publicly substantiated; the highest public claim is "RMB 1M/year" with no backend screenshots ever shown.
+- AI-Coding School: ~RMB 10M revenue in 2024 (self-reported).
 
-详细可信度说明见 `references/sources.md`。
+Full credibility notes in `references/sources.md`.
 
 ---
 
-## 灵感来源
+## Inspiration Sources
 
-- 核心信条「AI 的唯一正确用法，是让它给你泼冷水」—— 本 skill 泼冷水的灵魂来源
-- 「从蹭热度转成吃任务」+ 机会分评分系统 + 数据复盘—— 可落地的方法论骨架
-- 对出海一人公司两大方法流派的公开资料调研整理
+- Core belief *"The only correct use of AI is to make it pour cold water on you"* — the soul of this skill's cold-water approach.
+- *"From trend-riding to task-eating"* + opportunity-score system + data review — the actionable methodology skeleton.
+- Public research and synthesis across the four methodological schools of one-person overseas companies.
 
 ---
 
 ## License
 
-MIT
+Apache License 2.0 — see [LICENSE](LICENSE).
