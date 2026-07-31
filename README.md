@@ -1,6 +1,6 @@
 # Solo Founder Mentor
 
-> A Claude Code Skill that helps solo founders resolve confusion by combining four complementary methodological schools of one-person overseas companies (**AI-Coding School** + **Traffic-Abroad School** + **Overseas-Indie · Anti-VC Minimalism** + **Overseas-Indie · Distribution-Combination**) into actionable methodology, delivered in a **cold-water + methodology-contrast** voice.
+> A Claude Code Skill that helps solo founders resolve confusion by combining five complementary methodological schools of one-person overseas companies (**AI-Coding School** + **Traffic-Abroad School** + **Overseas-Indie · Anti-VC Minimalism** + **Overseas-Indie · Distribution-Combination** + **Community Co-creation School**) into actionable methodology, delivered in a **cold-water + methodology-contrast** voice.
 
 **English** | [中文](README.zh-CN.md)
 
@@ -8,20 +8,20 @@ Not an encyclopedia. Not a search engine. A mentor that **hits the brakes, picks
 
 ---
 
-## Why These Four Schools
+## Why These Five Schools
 
-The one-person overseas-company space has four complementary methodological schools. This skill distills their actionable methodology into one place:
+The one-person overseas-company space has five complementary methodological schools. This skill distills their actionable methodology into one place:
 
-| Dimension | AI-Coding School | Traffic-Abroad School | Overseas-Indie · Anti-VC | Overseas-Indie · Distribution |
-|---|---|---|---|---|
-| Background | Big-tech PM pivot | E-commerce ops pivot | Non-programmer digital nomad | Pivoted after layoff |
-| Core strength | Deep AI coding + product insight | Traffic/SEO + content execution | Minimal stack + paid validation | AI coding workflow + personal IP |
-| Playbook | Few-but-fine product matrix | Wide net of niche sites | 12 products in 12 months | 35+ products cross-selling |
-| Stack | AI coding tools + SaaS templates | Cloudflare suite | PHP+jQuery+SQLite+single VPS | Next.js + Cursor |
-| Revenue | Product paid + courses | AdSense + SaaS subscriptions | One-time paid, 90% margin | Shovels (templates/courses/community) sold to peers |
-| Methodology focus | Reverse-demand / raising crawdads / Ralph Loop | Five-Root / opportunity score / data review | Paid validation / build in public / 100% automation | Ship Fast / 80-20 AI coding / portfolio monetization |
+| Dimension | AI-Coding School | Traffic-Abroad School | Overseas-Indie · Anti-VC | Overseas-Indie · Distribution | Community Co-creation |
+|---|---|---|---|---|---|
+| Background | Big-tech PM pivot | E-commerce ops pivot | Non-programmer digital nomad | Pivoted after layoff | Ex-Alibaba ops |
+| Core strength | Deep AI coding + product insight | Traffic/SEO + content execution | Minimal stack + paid validation | AI coding workflow + personal IP | Info-gap intelligence + community mechanics |
+| Playbook | Few-but-fine product matrix | Wide net of niche sites | 12 products in 12 months | 35+ products cross-selling | High-stickiness paid community + co-creation practice |
+| Stack | AI coding tools + SaaS templates | Cloudflare suite | PHP+jQuery+SQLite+single VPS | Next.js + Cursor | Paid community + co-creation mechanism |
+| Revenue | Product paid + courses | AdSense + SaaS subscriptions | One-time paid, 90% margin | Shovels (templates/courses/community) sold to peers | Tiered annual fee + incubation |
+| Methodology focus | Reverse-demand / raising crawdads / Ralph Loop | Five-Root / opportunity score / data review | Paid validation / build in public / 100% automation | Ship Fast / 80-20 AI coding / portfolio monetization | Info-gap + execution + open mindset / ladder pricing / two-way filtering |
 
-None of the four are CS-trained programmers. All used AI to write code and built seven-to-eight-figure revenue. The first two lean toward China-going-abroad; the latter two toward a global perspective. East-meets-West contrast. The paths are replicable; the methodology is actionable.
+The first four are not CS-trained programmers; all used AI to write code and built seven-to-eight-figure revenue, leaning toward "building products." The fifth leans toward "building community + intelligence + incubation" — it is the circle-layer matrix from which the first several schools emerged (the AI-Coding and Traffic-Abroad representatives originally came out of this school's community). The first two plus the Community school lean toward China-going-abroad; the latter two toward a global perspective. East-meets-West contrast. The paths are replicable; the methodology is actionable.
 
 > To avoid doxxing and copyright/personality-rights issues, this skill keeps only the methodology itself — no personal names, official accounts, product names, or course names. Provenance notes live in `references/sources.md`.
 
@@ -43,6 +43,7 @@ Common founder confusions and the matching methodology:
 | Portfolio / expansion | "One product or many / how to scale?" | 12-startups method + portfolio monetization + tool→course→community ladder |
 | How to use AI coding | "How does AI coding actually land?" | 80-20 AI coding + Cursor four-layer usage + six-level leap |
 | Future trends / track | "Where's the next opportunity / will AI eat me?" | Agent-friendly SaaS + "what model makers won't do" + distribution > product |
+| Info-gap / circle / join a paid community? | "How do I get first-hand info / should I pay to join a circle / where's the info-gap?" | Community Co-creation: info-gap + execution + open mindset + ladder pricing / two-way filtering + feed-the-war-with-the-war |
 
 ---
 
@@ -125,7 +126,7 @@ Full credibility notes in `references/sources.md`.
 
 - Core belief *"The only correct use of AI is to make it pour cold water on you"* — the soul of this skill's cold-water approach.
 - *"From trend-riding to task-eating"* + opportunity-score system + data review — the actionable methodology skeleton.
-- Public research and synthesis across the four methodological schools of one-person overseas companies.
+- Public research and synthesis across the five methodological schools of one-person overseas companies.
 
 ---
 
